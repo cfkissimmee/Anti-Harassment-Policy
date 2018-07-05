@@ -18,13 +18,13 @@ Event staff will be happy to help participants contact hotel/venue security or l
 
 **Code for Kissimmee Email Template for Anti-Harassment Reporting**
 
-**SUBJECT:** Harassment alert at [EVENT NAME]
+**SUBJECT:** > Harassment alert at [EVENT NAME]
 
 **MESSAGE:** 
 
-I am writing because of harassment at a Code for Kissimmee event, (NAME, PLACE, DATE OF EVENT).
+> I am writing because of harassment at a Code for Kissimmee event, (NAME, PLACE, DATE OF EVENT).
 
-You can reach me at (CONTACT INFO). Thank you.
+> You can reach me at (CONTACT INFO). Thank you.
 
 **End Email Template**
 
@@ -36,13 +36,13 @@ If our brigade attends a Code for America event, you can also contact Code for A
 
 **Code for America Email Template for Anti-Harassment Reporting**
 
-**SUBJECT:** Safe Space alert at [EVENT NAME]
+**SUBJECT:** > Safe Space alert at [EVENT NAME]
 
 **MESSAGE:**
 
-I am writing because of harassment at a Code for America Communities event, (NAME, PLACE, DATE OF EVENT).
+> I am writing because of harassment at a Code for America Communities event, (NAME, PLACE, DATE OF EVENT).
 
-You can reach me at (CONTACT INFO). Thank you.
+> You can reach me at (CONTACT INFO). Thank you.
 
 **End Email Template**
 
