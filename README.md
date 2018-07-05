@@ -18,7 +18,9 @@ Event staff will be happy to help participants contact hotel/venue security or l
 
 **Code for Kissimmee Email Template for Anti-Harassment Reporting**
 
-**SUBJECT:** > Harassment alert at [EVENT NAME]
+**SUBJECT:** 
+
+> Harassment alert at [EVENT NAME]
 
 **MESSAGE:** 
 
@@ -36,7 +38,9 @@ If our brigade attends a Code for America event, you can also contact Code for A
 
 **Code for America Email Template for Anti-Harassment Reporting**
 
-**SUBJECT:** > Safe Space alert at [EVENT NAME]
+**SUBJECT:** 
+
+> Safe Space alert at [EVENT NAME]
 
 **MESSAGE:**
 
