@@ -3,7 +3,7 @@ Code for Kissimmee Anti-Harassment Policy
 
 Code for Kissimmee is dedicated to providing a harassment-free and inclusive event experience for everyone regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category. We do not tolerate harassment of event participants in any form. Code for Kissimmee takes violations of our policy seriously and will respond appropriately.
 
-All participants of Code for Kissimmee events must abide by the following policy:
+**All participants of Code for Kissimmee events must abide by the following policy:**
 
 1. Be excellent to each other. We want the event to be an excellent experience for everyone regardless of gender identity and expression, sexual orientation, disabilities, neurodiversity, physical appearance, body size, ethnicity, nationality, race, age, religion, or other protected category. Treat everyone with respect. Participate while acknowledging that everyone deserves to be here -- and each of us has the right to enjoy our experience without fear of harassment, discrimination, or condescension, whether blatant or via micro-aggressions. Jokes shouldn’t demean others. Consider what you are saying and how it would feel if it were said to or about you.
 2. Speak up if you see or hear something. Harassment is not tolerated, and you are empowered to politely engage when you or others are disrespected. The person making you feel uncomfortable may not be aware of what they are doing, and politely bringing their behavior to their attention is encouraged. If a participant engages in harassing or uncomfortable behavior, the event organizers may take any action they deem appropriate, including warning or expelling the offender from the event (with no refund if applicable). If you are being harassed or feel uncomfortable, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff immediately.
@@ -12,9 +12,27 @@ All participants of Code for Kissimmee events must abide by the following policy
 
 This policy extends to talks, forums, workshops, codelabs, social media, parties, hallway conversations, all attendees, partners, sponsors, volunteers, event staff, etc. You catch our drift. Code for Kissimmee reserves the right to refuse admittance to, or remove any person from, any Code for Kissimmee hosted event (including future Code for Kissimmee events) at any time in its sole discretion. This includes, but is not limited to, attendees behaving in a disorderly manner or failing to comply with this policy, and the terms and conditions herein. If a participant engages in harassing or uncomfortable behavior, the event organizers may take any action they deem appropriate, including warning or expelling the offender from the event (with no refund if applicable).
 
-Our event staff can usually be identified by special badges/attire. Our zero tolerance policy means that we will look into and review every allegation of violation of our Event Community Guidelines and Anti-Harassment Policy and respond appropriately. Please note, while we take all concerns raised seriously, we will use our discretion as to determining when and how to follow up on reported incidents, and may decline to take any further action and/or may direct the participant to other resources for resolution.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately. You can contact them at **1-866-855-1449** or **harassment@codeforkissimmee.org** and feel free to use the email template below. Our zero tolerance policy means that we will look into and review every allegation of violation of our Event Community Guidelines and Anti-Harassment Policy and respond appropriately. Please note, while we take all concerns raised seriously, we will use our discretion as to determining when and how to follow up on reported incidents, and may decline to take any further action and/or may direct the participant to other resources for resolution.
 
 Event staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing discomfort or harassment to feel safe for the duration of the event. We value your attendance.
+
+#### Code for Kissimmee Email Template for Anti-Harassment Reporting
+SUBJECT: Harassment alert at [EVENT NAME]
+I am writing because of harassment at a Code for Kissimmee event, (NAME, PLACE, DATE OF EVENT).
+You can reach me at (CONTACT INFO). Thank you.
+
+**_If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation._**
+
+# Code for America Events
+
+If our brigade attends a Code for America event, you can also contact Code for America about harassment at **safespace@codeforamerica.org** and feel free to use the email template below.
+
+#### Code for America Email Template for Anti-Harassment Reporting
+SUBJECT: Safe Space alert at [EVENT NAME]
+I am writing because of harassment at a Code for America Communities event, (NAME, PLACE, DATE OF EVENT).
+You can reach me at (CONTACT INFO). Thank you.
+
+# Partners, Sponsors, and Vendors
 
 Exhibiting partners, sponsors or vendor booths, or similar activities are also subject to this policy. In particular, exhibitors should not use sexualized images, activities, or other material. Booth staff (including volunteers) should not use sexualized clothing/uniforms/costumes, or otherwise create a sexualized environment. Participants and exhibiting partners or sponsors disobeying this policy will be notified and are expected to stop any offending behavior immediately.
 
