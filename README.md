@@ -20,6 +20,7 @@ Event staff will be happy to help participants contact hotel/venue security or l
 SUBJECT: Harassment alert at [EVENT NAME]
 I am writing because of harassment at a Code for Kissimmee event, (NAME, PLACE, DATE OF EVENT).
 You can reach me at (CONTACT INFO). Thank you.
+#### End Email Template
 
 **_If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation._**
 
@@ -31,6 +32,7 @@ If our brigade attends a Code for America event, you can also contact Code for A
 SUBJECT: Safe Space alert at [EVENT NAME]
 I am writing because of harassment at a Code for America Communities event, (NAME, PLACE, DATE OF EVENT).
 You can reach me at (CONTACT INFO). Thank you.
+#### End Email Template
 
 # Partners, Sponsors, and Vendors
 
