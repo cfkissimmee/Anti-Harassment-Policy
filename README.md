@@ -17,6 +17,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 Event staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing discomfort or harassment to feel safe for the duration of the event. We value your attendance.
 
 **Code for Kissimmee Email Template for Anti-Harassment Reporting**
+
 **SUBJECT:** Harassment alert at [EVENT NAME]
 
 **MESSAGE:** 
@@ -24,6 +25,7 @@ Event staff will be happy to help participants contact hotel/venue security or l
 I am writing because of harassment at a Code for Kissimmee event, (NAME, PLACE, DATE OF EVENT).
 
 You can reach me at (CONTACT INFO). Thank you.
+
 **End Email Template**
 
 **_If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation._**
@@ -33,6 +35,7 @@ You can reach me at (CONTACT INFO). Thank you.
 If our brigade attends a Code for America event, you can also contact Code for America about harassment at **safespace@codeforamerica.org** and feel free to use the email template below.
 
 **Code for America Email Template for Anti-Harassment Reporting**
+
 **SUBJECT:** Safe Space alert at [EVENT NAME]
 
 **MESSAGE:**
@@ -40,6 +43,7 @@ If our brigade attends a Code for America event, you can also contact Code for A
 I am writing because of harassment at a Code for America Communities event, (NAME, PLACE, DATE OF EVENT).
 
 You can reach me at (CONTACT INFO). Thank you.
+
 **End Email Template**
 
 # Partners, Sponsors, and Vendors
